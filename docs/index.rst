@@ -6,7 +6,7 @@
 :hide-secondary-sidebar:
 :landing:
 
-.. title:: Welcome to ScyllaDB Documentation
+.. title:: Welcome to ScyllaDB Documentation Test2
 
 .. hero-box::
   :title: Welcome to ScyllaDB Documentation
